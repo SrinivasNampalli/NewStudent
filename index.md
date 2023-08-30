@@ -27,28 +27,34 @@
   <h1>Build your Home Page here</h1>
   
   <div>
-    <img src="https://github.com/SrinivasNampalli/Srinivas-Nampalli1/assets/96441447/ad5f79c1-1e1c-4865-baa9-b4788d2c8dc1" alt="Ferrari F1" width="300" height="200">
+    <img src="https://github.com/SrinivasNampalli/Srinivas-Nampalli1/assets/96441447/ad5f79c1-1e1c-4865-baa9-b4788d2c8dc1" alt="Ferrari F1">
     <p>
       Ferrari F1 embodies the pinnacle of speed, engineering, and passion. The team's legacy of excellence and pursuit of victory resonates deeply with me. Their precision and relentless drive inspire me to excel in every endeavor, mirroring their commitment to pushing boundaries and achieving greatness.
     </p>
   </div>
-
   <div>
-    <img src="https://github.com/SrinivasNampalli/Srinivas-Nampalli1/assets/96441447/c78278eb-fda8-482d-8adc-4890617cceec" alt="Java" width="200" height="100">
+  <img src="https://github.com/SrinivasNampalli/NewStudent/assets/96441447/41cfbd97-f9bd-493d-8b2d-fdd1fd9acfe2" alt="Ferrari F1">
+    <p>
+      Ferrari F1 embodies the pinnacle of speed, engineering, and passion. The team's legacy of excellence and pursuit of victory resonates deeply with me. Their precision and relentless drive inspire me to excel in every endeavor, mirroring their commitment to pushing boundaries and achieving greatness.
+    </p>
+  </div>
+  
+  <div>
+    <img src="https://github.com/SrinivasNampalli/Srinivas-Nampalli1/assets/96441447/c78278eb-fda8-482d-8adc-4890617cceec" alt="Java">
     <p>
       Java is one of my favorite coding languages. I have been using it for a while and it will most likely always be the first choice whenever I decide to make any type of project.
     </p>
   </div>
 
   <div>
-    <img src="https://github.com/SrinivasNampalli/Srinivas-Nampalli1/assets/96441447/0c561e08-0510-4cda-bf08-16b9c61406d3" alt="Chick-fil-A" width="150" height="100">
+    <img src="https://github.com/SrinivasNampalli/Srinivas-Nampalli1/assets/96441447/0c561e08-0510-4cda-bf08-16b9c61406d3" alt="Chick-fil-A" width="300" height="300">
     <p>
       Chick-fil-A is my favorite fast food restaurant as I have been eating from there for a while now. My favorite item from their menu is their peach shake drink.
     </p>
   </div>
 
   <div>
-    <img src="https://github.com/SrinivasNampalli/Srinivas-Nampalli1/assets/96441447/65b769de-58c7-47fe-9585-89c8e15b22d9" alt="Chrome Hearts" width="150" height="100">
+    <img src="https://github.com/SrinivasNampalli/Srinivas-Nampalli1/assets/96441447/65b769de-58c7-47fe-9585-89c8e15b22d9" alt="Chrome Hearts" width="500" height="500">
     <p>
       Fashion is one of my favorite things because in my free time it's interesting to see what these famous designers are making. I like Nike and designer brands like Balenciaga due to how consistent they are at what they do.
     </p>
