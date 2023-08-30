@@ -2,22 +2,27 @@
 toc: true
 comments: true
 layout: post
-title: Sample Review Ticket
-description: Example Review Ticket!!! This will help us communicate results.
+title: Week 1! MetaData
+description: This week I learnt about Meta Data. I improved my skills with github and learned about concepts like WSL and basics of coding a little bit better.
 type: tangibles
-courses: { compsci: {week: 1} }
+courses: { compsci: {week: 2} }
 ---
 
+---
 ### Summary of Accomplishments
-> Update Blog to contain all hacks.  
-- Reviewed with Pair.  Discuss/Show evidence.
-- Discuss laptop, cloud computer.
-- Discuss tools setup and troubles.
-- Show personal blog / home page.
-- Show how you are maintaining notes, answering hacks, and showing tangibles.  
-- How have you learned Markdown, HTML, CSS, JavaScript.
-- Show Jupyter Notebooks and how you have added and organized them in the blog.
-- Show evidence of using Slack Account, show app installed on Laptop and/or phone.  Show awared of #annoncements, #general, #coding.
-- Run make commands to build and test blog locally, before pushing changes to GitHub pages.
-- Discuss GitHub Account, show ability to push/pull changes from VSCode.
-- Discuss development on Themes, show how you plan to organized lab notebook.
+>My tech journey unveiled the power of GitHub's collaboration and version control, refining my understanding of seamless teamwork. Exploring metadata's role in structuring data felt like framing a digital masterpiece with elegance.
+
+Jupyter Notebooks then emerged, blending code and commentary, opening a new avenue for learning. Through code cells and markdown, I began narrating insights and knowledge with a newfound finesse.
+
+GitHub, metadata, and Jupyter became essential strokes in my digital narrative, shaping a path of continuous growth.
+
+
+---
+toc: true
+comments: true
+layout: post
+title: Week 1! MetaData
+description: This week I learnt about Meta Data. I improved my skills with github and learned about concepts like WSL and basics of coding a little bit better.
+type: tangibles
+courses: { compsci: {week: 2} }
+---
