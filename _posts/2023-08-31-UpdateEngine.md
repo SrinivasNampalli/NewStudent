@@ -10,40 +10,38 @@ courses: { compsci: {week: 2} }
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Basic Search Algorithm</title>
+  <title>Random Response Generator</title>
 </head>
 <body>
-  <h1>Basic Search Algorithm</h1>
+  <h1>Ask Me Anything</h1>
   
-  <input type="text" id="searchInput" placeholder="Enter a value...">
-  <button onclick="search()">Search</button>
+  <input type="text" id="question" placeholder="Ask a question...">
+  <button onclick="generateResponse()">Ask</button>
   
-  <p id="result"></p>
+  <p id="response"></p>
   
   <script>
-    const data = [12, 45, 78, 23, 56, 90, 34, 67, 89, 32];
+    const responses = [
+      "Yes, definitely.",
+      "No, absolutely not.",
+      "I'm not sure. Ask again later.",
+      "It's possible.",
+      "I doubt it.",
+      "Certainly!",
+      "I'm sorry, I can't answer that.",
+    ];
 
-    function search() {
-      const searchValue = parseInt(document.getElementById("searchInput").value);
-      const resultElement = document.getElementById("result");
-      const index = linearSearch(data, searchValue);
+    function generateResponse() {
+      const question = document.getElementById("question").value;
+      const responseElement = document.getElementById("response");
+      
+      // Generate a random response from the array
+      const randomIndex = Math.floor(Math.random() * responses.length);
+      const randomResponse = responses[randomIndex];
 
-      if (index !== -1) {
-        resultElement.textContent = `Found at index ${index}.`;
-      } else {
-        resultElement.textContent = `Not found.`;
-      }
-    }
-
-    function linearSearch(array, value) {
-      for (let i = 0; i < array.length; i++) {
-        if (array[i] === value) {
-          return i;
-        }
-      }
-      return -1;
+      // Display the response
+      responseElement.textContent = `Response: ${randomResponse}`;
     }
   </script>
 </body>
 </html>
-
