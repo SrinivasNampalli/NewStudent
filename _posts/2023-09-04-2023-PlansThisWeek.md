@@ -3,7 +3,7 @@ comments: true
 layout: post
 title: Weekly Review(Pair Review)
 description: Grab Calculator Code and place in IPYNB
-type: tangibles
+type: plans
 courses: { compsci: {week: 3} }
 ---
 
