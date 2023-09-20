@@ -3,7 +3,7 @@ comments: true
 layout: post
 title: StickFigure Game
 description: Grab Calculator Code and place in IPYNB
-type: hacks
+type: tangibles
 courses: { compsci: {week: 3} }
 ---
 <!DOCTYPE html>

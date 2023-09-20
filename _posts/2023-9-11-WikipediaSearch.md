@@ -3,7 +3,7 @@ comments: true
 layout: post
 title: Wikipedia Search
 description: Ticket
-type: tangibles
+type: hacks
 courses: { compsci: {week: 3} }
 ---
 <html>
