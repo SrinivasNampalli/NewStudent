@@ -1,7 +1,7 @@
 ---
 comments: true
 layout: post
-title: GPA and SAT
+title: GPA and SAT(Important Commit)
 description: Ticket
 type: tangibles
 courses: { compsci: {week: 7} }
