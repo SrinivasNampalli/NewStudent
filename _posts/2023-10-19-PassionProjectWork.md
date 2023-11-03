@@ -1,4 +1,4 @@
-c---
+---
 comments: true
 layout: post
 title: GPA and SAT
@@ -6,7 +6,6 @@ description: Ticket
 type: tangibles
 courses: { compsci: {week: 7} }
 ---
-
 <<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -87,3 +86,7 @@ courses: { compsci: {week: 7} }
     </script>
 </body>
 </html>
+
+
+###ReflectionFirstCommit
+TheHTML code is well-structured, creating a user-friendly GPA and SAT input interface. The interactive boxes' hover animation provides a visual cue for users. The JavaScript functions manage user input and display relevant messages effectively. Once both GPA and SAT scores are submitted, the code prompts users with questions related to college preferences, enhancing user engagement. This was my first prototype 
