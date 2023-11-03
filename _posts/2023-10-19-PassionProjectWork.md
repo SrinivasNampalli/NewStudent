@@ -1,4 +1,4 @@
----
+c---
 comments: true
 layout: post
 title: GPA and SAT
