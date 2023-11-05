@@ -6,7 +6,15 @@ description: Ticket
 type: hacks
 courses: { compsci: {week: 7} }
 ---
+<html>
+<head>
+    <title>Python Code</title>
+</head>
+<body>
+    <h1>Python Code for Lists, Search, and Algorithm</h1>
 
+    <h2>Append, Remove, Index, and Count</h2>
+    <pre>
 # Append a new number (110) to the end of the list
 numbers.append(110)
 
@@ -23,6 +31,10 @@ print("Index of 70:", index)
 # Count the occurrences of a number (70) in the list
 count = numbers.count(70)
 print("Occurrences of 70:", count)
+    </pre>
+
+    <h2>Homework #2 - Binary Search Iterations and Median</h2>
+    <pre>
 # Homework #2
 def worst_case_binary_search_iterations(array_length):
     low = 0
@@ -45,8 +57,7 @@ def worst_case_binary_search_iterations(array_length):
 array_length = 20
 iterations = worst_case_binary_search_iterations(array_length)
 print(f"Worst-case iterations for an array of length {array_length}: {iterations}")
-# SrinivasNampalli commented 2 weeks ago
-# 1
+
 def find_median(grades):
     sorted_grades = sorted(grades)
     n = len(sorted_grades)
@@ -62,7 +73,10 @@ def find_median(grades):
 test_grades = [85, 92, 78, 90, 88, 95]
 median_grade = find_median(test_grades)
 print(f"The median test grade is: {median_grade}")
+    </pre>
 
+    <h2>Dice Rolling Game</h2>
+    <pre>
 # 2
 import random
 
@@ -90,3 +104,6 @@ def play_game():
 if __name__ == "main":
     print("Welcome to the Dice Rolling Game!")
     play_game()
+    </pre>
+</body>
+</html>

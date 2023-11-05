@@ -1,7 +1,7 @@
 ---
 comments: true
 layout: post
-title: Reflection(Iteration)
+title: Reflection(Lists and Searching)
 description: Ticket
 type: tangibles
 courses: { compsci: {week: 7} }
