@@ -4,7 +4,7 @@ layout: post
 title: Reflection(Lists and Searching)
 description: Ticket
 type: tangibles
-courses: { compsci: {week: 7} }
+courses: { compsci: {week: 9} }
 ---
 <html>
 <head>

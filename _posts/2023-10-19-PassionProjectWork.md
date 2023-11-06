@@ -4,7 +4,7 @@ layout: post
 title: GPA and SAT(Important Commit)
 description: Ticket
 type: tangibles
-courses: { compsci: {week: 7} }
+courses: { compsci: {week: 8} }
 ---
 <<!DOCTYPE html>
 <html lang="en">

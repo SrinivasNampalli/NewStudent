@@ -4,7 +4,7 @@ layout: post
 title: Reflection(Iteration)
 description: Ticket
 type: tangibles
-courses: { compsci: {week: 7} }
+courses: { compsci: {week: 8} }
 ---
 <html>
 <head>

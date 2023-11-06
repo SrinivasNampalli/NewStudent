@@ -4,7 +4,7 @@ layout: post
 title: P1 Lists and Search and Developing Algorithm
 description: Ticket
 type: hacks
-courses: { compsci: {week: 7} }
+courses: { compsci: {week: 9} }
 ---
 <html>
 <head>

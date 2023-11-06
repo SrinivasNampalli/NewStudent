@@ -1,10 +1,10 @@
 ---
 comments: true
 layout: post
-title: P1 Procedures 
+title: P1 Procedures and Library
 description: Ticket
 type: hacks
-courses: { compsci: {week: 7} }
+courses: { compsci: {week: 10} }
 ---
 
 <!DOCTYPE html>

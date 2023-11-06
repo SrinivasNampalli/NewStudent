@@ -3,7 +3,7 @@ comments: true
 layout: post
 title: Passion Project Goals
 description: Ticket
-type: tangibles
+type: plans
 courses: { compsci: {week: 7} }
 ---
 
